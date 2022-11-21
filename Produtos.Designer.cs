@@ -61,7 +61,6 @@
             this.label1.Size = new System.Drawing.Size(383, 32);
             this.label1.TabIndex = 1;
             this.label1.Text = "Gerenciameno de Produtos ";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel1
             // 
@@ -91,7 +90,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(194, 49);
             this.panel2.TabIndex = 4;
-            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
             // mnsMenu
             // 
@@ -165,7 +163,6 @@
             this.bntPesq.TabIndex = 3;
             this.bntPesq.Text = "Pesquisar";
             this.bntPesq.UseVisualStyleBackColor = true;
-            this.bntPesq.Click += new System.EventHandler(this.bntPesq_Click);
             // 
             // bntEditar
             // 
@@ -175,7 +172,6 @@
             this.bntEditar.TabIndex = 4;
             this.bntEditar.Text = "Editar";
             this.bntEditar.UseVisualStyleBackColor = true;
-            this.bntEditar.Click += new System.EventHandler(this.button2_Click);
             // 
             // bntDele
             // 
@@ -185,7 +181,6 @@
             this.bntDele.TabIndex = 5;
             this.bntDele.Text = "Deletar";
             this.bntDele.UseVisualStyleBackColor = true;
-            this.bntDele.Click += new System.EventHandler(this.button3_Click);
             // 
             // bntAdicionar
             // 
@@ -228,7 +223,6 @@
             this.Controls.Add(this.label1);
             this.Name = "Produtos";
             this.Text = "Produtos";
-            this.Load += new System.EventHandler(this.Produtos_Load);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

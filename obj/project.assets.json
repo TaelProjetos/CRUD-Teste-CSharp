@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Testes\\.nuget\\packages\\": {}
+    "C:\\Users\\ThalesGabrieldeLima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Testes\\Desktop\\Testes\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\ThalesGabrieldeLima\\OneDrive - Unesp\\Área de Trabalho\\Projetos\\CRUD-Teste-CSharp\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "C:\\Users\\Testes\\Desktop\\Testes\\CRUD\\CRUD.csproj",
-      "packagesPath": "C:\\Users\\Testes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Testes\\Desktop\\Testes\\CRUD\\obj\\",
+      "projectPath": "C:\\Users\\ThalesGabrieldeLima\\OneDrive - Unesp\\Área de Trabalho\\Projetos\\CRUD-Teste-CSharp\\CRUD.csproj",
+      "packagesPath": "C:\\Users\\ThalesGabrieldeLima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ThalesGabrieldeLima\\OneDrive - Unesp\\Área de Trabalho\\Projetos\\CRUD-Teste-CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Testes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThalesGabrieldeLima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

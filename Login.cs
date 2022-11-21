@@ -12,7 +12,7 @@ namespace CRUD
             String user = txbUsuario.Text;
             String password = txbSenha.Text;
 
-            if(user == "Thales" && password == "rola")
+            if(user == "Thales" && password == "123")
             {
                 MessageBox.Show("Logado");
                 Menu menu = new Menu();
